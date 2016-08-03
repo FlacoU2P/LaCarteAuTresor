@@ -1,0 +1,16 @@
+﻿/*
+	La Carte Au Tresor
+*/	
+
+author = "Flaco U2P | Djoe45 | KevinSkyliine";
+onLoadName = "La Carte Au Tresor";
+onLoadMission = "Version: 0.1";
+loadScreen = "\CarteAuTresor_textures\thumb.paa";
+
+class Header
+{
+	gameType = COOP;
+};
+
+#include "Config.cpp"
+#include "Fonctions.h"
